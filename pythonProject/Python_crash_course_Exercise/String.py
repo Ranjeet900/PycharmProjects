@@ -16,7 +16,7 @@ Look at string formatting and some string methods.
 # print(f"Hello, my name is {name} and I am {age}")
 
 #  String Methods
-s = 'hello world'
+s = 'helloworld'
 
 # capitalize string
 print(s.capitalize())
@@ -62,7 +62,7 @@ print(s.isalpha())
 # Is all numeric
 print(s.isnumeric())
 
-
+print('Hello, How are you?')
 
 
 
